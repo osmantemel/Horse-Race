@@ -1,0 +1,12 @@
+C:\Users\osman\Desktop\özel\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\osman\Desktop\özel\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\osman\Desktop\özel\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\osman\Desktop\özel\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\osman\Desktop\özel\deneme\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\osman\Desktop\özel\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\osman\Desktop\özel\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\osman\Desktop\özel\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\osman\Desktop\özel\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\özel\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\osman\Desktop\özel\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\osman\Desktop\özel\deneme\deneme\obj\Debug\deneme.Form2.resources
